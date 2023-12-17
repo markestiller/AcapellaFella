@@ -1,4 +1,4 @@
-# AcappellaFella
+# AcapellaFella
 
 ## Problem Domain
 Our problem domain is focused on making a trivia game. At a high level we were planning on creating a multiplayer game where one person is selected to sing a song in front of the other players and said players would have to guess what song the singer is singing. The person selected as the singer will have the option to pick one of the three randomized songs which will be retrieved from the Spotify API. 
